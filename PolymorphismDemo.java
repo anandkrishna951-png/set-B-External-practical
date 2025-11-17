@@ -50,4 +50,3 @@ public class PolymorphismDemo {
         animal.sound(); 
     }
 }
-22
